@@ -1,5 +1,5 @@
 # Decison Trees
-This projects aims to create supervised machine learning with decision trees.
+This projects aims to create supervised machine learning with decision trees. A csv file is added for exploration.
 
 ## How it Works
 The user provides a CSV file into the local directory. The program then parses through the csv and selects the best attribute to make a split on. This is done recursively for each level of the tree until leaf nodes are created.
